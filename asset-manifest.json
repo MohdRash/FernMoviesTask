@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/fernmovies/static/css/main.cf14f878.chunk.css",
-    "main.js": "/fernmovies/static/js/main.744acfbb.chunk.js",
-    "main.js.map": "/fernmovies/static/js/main.744acfbb.chunk.js.map",
-    "runtime-main.js": "/fernmovies/static/js/runtime-main.616c47e6.js",
-    "runtime-main.js.map": "/fernmovies/static/js/runtime-main.616c47e6.js.map",
-    "static/js/2.f3073249.chunk.js": "/fernmovies/static/js/2.f3073249.chunk.js",
-    "static/js/2.f3073249.chunk.js.map": "/fernmovies/static/js/2.f3073249.chunk.js.map",
-    "index.html": "/fernmovies/index.html",
-    "static/css/main.cf14f878.chunk.css.map": "/fernmovies/static/css/main.cf14f878.chunk.css.map",
-    "static/js/2.f3073249.chunk.js.LICENSE.txt": "/fernmovies/static/js/2.f3073249.chunk.js.LICENSE.txt"
+    "main.css": "/FernMoviesTask/static/css/main.cf14f878.chunk.css",
+    "main.js": "/FernMoviesTask/static/js/main.744acfbb.chunk.js",
+    "main.js.map": "/FernMoviesTask/static/js/main.744acfbb.chunk.js.map",
+    "runtime-main.js": "/FernMoviesTask/static/js/runtime-main.8fed72c1.js",
+    "runtime-main.js.map": "/FernMoviesTask/static/js/runtime-main.8fed72c1.js.map",
+    "static/js/2.89d29c77.chunk.js": "/FernMoviesTask/static/js/2.89d29c77.chunk.js",
+    "static/js/2.89d29c77.chunk.js.map": "/FernMoviesTask/static/js/2.89d29c77.chunk.js.map",
+    "index.html": "/FernMoviesTask/index.html",
+    "static/css/main.cf14f878.chunk.css.map": "/FernMoviesTask/static/css/main.cf14f878.chunk.css.map",
+    "static/js/2.89d29c77.chunk.js.LICENSE.txt": "/FernMoviesTask/static/js/2.89d29c77.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.616c47e6.js",
-    "static/js/2.f3073249.chunk.js",
+    "static/js/runtime-main.8fed72c1.js",
+    "static/js/2.89d29c77.chunk.js",
     "static/css/main.cf14f878.chunk.css",
     "static/js/main.744acfbb.chunk.js"
   ]
